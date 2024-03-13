@@ -5,6 +5,7 @@ export enum CHAIN {
   BLAST = "blast",
   BOBA = "boba",
   BSC = "bsc",
+  OMAX = "omax",
   CELO = "celo",
   ETHEREUM = "ethereum",
   FANTOM = "fantom",
